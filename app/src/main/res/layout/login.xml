@@ -63,7 +63,7 @@
         android:layout_marginEnd="32dp"
         android:background="@drawable/edittext_background"
         android:ems="10"
-        android:hint="Enter Your Email..."
+        android:hint="Introduce el usuario ..."
         android:inputType="textPersonName"
         android:paddingStart="16dp"
         android:textColor="#c7c7c7"
@@ -90,7 +90,7 @@
         android:layout_marginEnd="32dp"
         android:background="@drawable/edittext_background"
         android:ems="10"
-        android:hint="Enter Your Name..."
+        android:hint="Introduzca su nombre ..."
 
         android:inputType="textPassword"
         android:paddingStart="16dp"
