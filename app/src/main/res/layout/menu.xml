@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/app_bar"
+
+            style="@style/Widget.RogerAC.Tollbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:title="@string/app_cuenta" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/fondo"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="uwu"
+            android:textAllCaps="true"
+            android:textSize="16sp" />
+
+
+        <ImageButton
+            android:id="@+id/hbo"
+            android:layout_width="163dp"
+            android:layout_height="158dp"
+            android:background="@android:color/transparent"
+            android:src="@mipmap/hbo"
+            android:translationX="30dp"
+            android:translationY="60dp"
+            tools:ignore="SpeakableTextPresentCheck">
+
+        </ImageButton>
+
+        <ImageButton
+            android:id="@+id/disney"
+            android:layout_width="163dp"
+            android:layout_height="158dp"
+            android:background="@android:color/transparent"
+            android:src="@mipmap/disneyplus"
+            android:translationX="220dp"
+            android:translationY="-98dp"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/star"
+            android:layout_width="163dp"
+            android:layout_height="158dp"
+            android:background="@android:color/transparent"
+            android:src="@mipmap/starplus"
+            android:translationX="30dp"
+            android:translationY="-70dp"
+            tools:ignore="SpeakableTextPresentCheck"/>
+
+        <ImageButton
+            android:id="@+id/next_button2"
+            android:layout_width="61dp"
+            android:layout_height="65dp"
+            android:background="@android:color/transparent"
+            android:src="@mipmap/derecha"
+            android:translationX="320dp"
+            android:translationY="60dp"
+            tools:ignore="SpeakableTextPresentCheck"
+            tools:visibility="invisible" />
+
+
+    </LinearLayout>
+
+
+
+</FrameLayout>
+
+

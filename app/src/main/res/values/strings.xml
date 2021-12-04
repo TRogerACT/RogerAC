@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JIRO</string>
+    <string name="app_cuenta">CUENTAS</string>
+    <string name="app_bins">BINS</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="logo">Logo</string>
+    <string name="error_password">La contraseña debe contener al menos 6 caracteres.</string>
+    <string name="menu_title">Titulo</string>
+    <string name="descrip">description</string>
+    <string name="product_title">Title</string>
+    <string name="product_description">Description Text</string>
+</resources>

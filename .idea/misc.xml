@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/black_btn.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/edittext_background.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/grey_btn.xml" value="0.1703125" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_extension_24.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_keyboard_tab_24.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_policy_24.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_reply_24.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_baseline_smartphone_24.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_home.xml" value="0.12222222222222222" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/radius.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/side_nav_bar.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/white_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/drawable/white_btn.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_bins.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_disney.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_hbo.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_intro.xml" value="0.15" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_paramount.xml" value="0.16535433070866143" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_sactivity.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_sactivity2.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_spotify.xml" value="0.33" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_stactivity.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_star.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/activity_sttactivity.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/bins.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/header.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/menub.xml" value="0.33" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/nav_headt.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/navem.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/next.xml" value="0.18" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/product_card.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/product_grid_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/layout/signup_activity.xml" value="0.2" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/bin_menu.xml" value="0.18" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/drawer_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/menu_tol.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/nave.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/next.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/menu/toolbar_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ggruz/RogerAC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
